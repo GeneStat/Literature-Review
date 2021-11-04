@@ -1,5 +1,7 @@
 # Literature Review
 
+This repository is licensed under [CC-BY-SA-4.0](LICENSE).
+
 ## Motivation
 
 We started this repository to keep tracking related cutting-edge papers to find out the topic(s) and scientific questions to work on.
