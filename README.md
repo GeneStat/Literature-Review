@@ -31,3 +31,7 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 3. Pantziarka, P., Capistrano I, R., De Potter, A., Vandeborne, L. & Bouche, G. An Open Access Database of Licensed Cancer Drugs. **Front. Pharmacol**. 0, 236 (2021). doi: [10.3389/fphar.2021.627574](https://doi.org/10.3389/fphar.2021.627574)
 
     For public data mining, we usually generate an open-access database as the final product. The database could elevate other investigators' research.
+
+4. Kampers, L. F. C., Asin-Garcia, E., Schaap, P. J., Wagemakers, A. & Martins dos Santos, V. A. P. From Innovation to Application: Bridging the Valley of Death in Industrial Biotechnology. Trends Biotechnol. 39, 1240–1242 (2021). doi: [10.1016/j.tibtech.2021.04.010](https://doi.org/10.1016/j.tibtech.2021.04.010)
+
+    Although this is not even a research article paper, I added it here because I think it is crucial for us, a loosely connected virtual team. We want to do something innovative as well as in an open way. Sooner or later, financial supporting will be a critical problem, which could affect some of our decisions. So, keep caution and keep thinking about what value we could create and transfer, and then we should go further.
