@@ -20,18 +20,18 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
 ### November 2021
 
-1. Masum, H. et al. Ten Simple Rules for Cultivating Open Science and Collaborative R&D. **PLoS Comput. Biol**. 9, 7–10 (2013). doi: [10.1371/journal.pcbi.1003244](https://doi.org/10.1371/journal.pcbi.1003244)
+1. Masum, H. *et al*. Ten Simple Rules for Cultivating Open Science and Collaborative R&D. **PLoS Comput. Biol**. 9, 7–10 (2013). doi: [10.1371/journal.pcbi.1003244](https://doi.org/10.1371/journal.pcbi.1003244)
 
     Since our goal is to do scientific research **openly and transparently**, this paper should be a proper kick-off for this journey.
 
-2. Rollin, G., Lages, J. & Shepelyansky, D. L. Wikipedia network analysis of cancer interactions and world influence. **PLoS One**. 14, e0222508 (2019). doi: [10.1371/journal.pone.0222508](https://doi.org/10.1371/journal.pone.0222508)
+2. Rollin, G. *et al*. Wikipedia network analysis of cancer interactions and world influence. **PLoS One**. 14, e0222508 (2019). doi: [10.1371/journal.pone.0222508](https://doi.org/10.1371/journal.pone.0222508)
 
     Wikipedia provides an easy-to-access and large data source for us to know a new field quickly and mining for knowledge. This paper is an example of how to launch an analysis of Wikipedia data.
 
-3. Pantziarka, P., Capistrano I, R., De Potter, A., Vandeborne, L. & Bouche, G. An Open Access Database of Licensed Cancer Drugs. **Front. Pharmacol**. 0, 236 (2021). doi: [10.3389/fphar.2021.627574](https://doi.org/10.3389/fphar.2021.627574)
+3. Pantziarka, P. *et al*. An Open Access Database of Licensed Cancer Drugs. **Front. Pharmacol**. 0, 236 (2021). doi: [10.3389/fphar.2021.627574](https://doi.org/10.3389/fphar.2021.627574)
 
     For public data mining, we usually generate an open-access database as the final product. The database could elevate other investigators' research.
 
-4. Kampers, L. F. C., Asin-Garcia, E., Schaap, P. J., Wagemakers, A. & Martins dos Santos, V. A. P. From Innovation to Application: Bridging the Valley of Death in Industrial Biotechnology. Trends Biotechnol. 39, 1240–1242 (2021). doi: [10.1016/j.tibtech.2021.04.010](https://doi.org/10.1016/j.tibtech.2021.04.010)
+4. Kampers, L. F. C. *et al*. From Innovation to Application: Bridging the Valley of Death in Industrial Biotechnology. **Trends Biotechnol**. 39, 1240–1242 (2021). doi: [10.1016/j.tibtech.2021.04.010](https://doi.org/10.1016/j.tibtech.2021.04.010)
 
     Although this is not even a research article paper, I added it here because I think it is crucial for us, a loosely connected virtual team. We want to do something innovative as well as in an open way. Sooner or later, financial supporting will be a critical problem, which could affect some of our decisions. So, keep caution and keep thinking about what value we could create and transfer, and then we should go further.
