@@ -16,7 +16,7 @@ Therefore, for our (virtual) team, the best question should be like this:
 
 ## Paper List
 
-Here goes a continuous updating paper list. We select at least ten papers to study every month. Suggestion reasons and related comments are provided following each paper.
+Here goes a continuous updating paper list. We select at least ten papers to study every month. Unless it is crucial and necessary, only open access papers are selected and added to this list. Suggestion reasons and related comments are provided following each paper.
 
 ### November 2021
 
@@ -40,6 +40,6 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     In this beginning month of our literature review journey, I tend to add some papers which may be helpful for us to build up our principles and core values. This research article is such an interesting example of judging algorithms in a scientific research way. Keeping being good but not evil is not an easy thing.
 
-6. Paullada, A. *et al*. Data and its (dis)contents: A survey of dataset development and use in machine learning research. **Patterns**. 2, 100336 (2021). [10.1016/j.patter.2021.100336](https://doi.org/10.1016/j.patter.2021.100336)
+6. Paullada, A. *et al*. Data and its (dis)contents: A survey of dataset development and use in machine learning research. **Patterns**. 2, 100336 (2021). doi: [10.1016/j.patter.2021.100336](https://doi.org/10.1016/j.patter.2021.100336)
 
     Collecting and tidying up data is the first thing to do before we try statistical methods. This review provides information about dataset development and applications.
