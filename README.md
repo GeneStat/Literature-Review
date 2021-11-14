@@ -35,3 +35,11 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 4. Kampers, L. F. C. *et al*. From Innovation to Application: Bridging the Valley of Death in Industrial Biotechnology. **Trends Biotechnol**. 39, 1240–1242 (2021). doi: [10.1016/j.tibtech.2021.04.010](https://doi.org/10.1016/j.tibtech.2021.04.010)
 
     Although this is not even a research article paper, I added it here because I think it is crucial for us, a loosely connected virtual team. We want to do something innovative as well as in an open way. Sooner or later, financial supporting will be a critical problem, which could affect some of our decisions. So, keep caution and keep thinking about what value we could create and transfer, and then we should go further.
+
+5. Kleanthous, S. *et al*. Perception of fairness in algorithmic decisions: Future developers’ perspective. **Patterns**. 0, 100380 (2021). doi: [10.1016/j.patter.2021.100380](https://doi.org/10.1016/j.patter.2021.100380)
+
+    In this beginning month of our literature review journey, I tend to add some papers which may be helpful for us to build up our principles and core values. This research article is such an interesting example of judging algorithms in a scientific research way. Keeping being good but not evil is not an easy thing.
+
+6. Paullada, A. *et al*. Data and its (dis)contents: A survey of dataset development and use in machine learning research. **Patterns**. 2, 100336 (2021). [10.1016/j.patter.2021.100336](https://doi.org/10.1016/j.patter.2021.100336)
+
+    Collecting and tidying up data is the first thing to do before we try statistical methods. This review provides information about dataset development and applications.
