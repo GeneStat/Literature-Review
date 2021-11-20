@@ -56,5 +56,6 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     This is a typical example of scientific research (biomarker discovery) project based on TCGA and GEO (Gene Expression Omnibus) data.
 
+10. Fuhrman J. *et al*. A review of explainable and interpretable AI with applications in COVID-19 imaging. **Med Phys**. 2021 Nov 18. Online ahead of print. doi: [10.1002/mp.15359](https://doi.org/10.1002/mp.15359)
 
-
+    We mentioned image processing for diagnosis. This review paper could provide some related knowledge.
