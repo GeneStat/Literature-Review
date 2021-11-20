@@ -43,3 +43,18 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 6. Paullada, A. *et al*. Data and its (dis)contents: A survey of dataset development and use in machine learning research. **Patterns**. 2, 100336 (2021). doi: [10.1016/j.patter.2021.100336](https://doi.org/10.1016/j.patter.2021.100336)
 
     Collecting and tidying up data is the first thing to do before we try statistical methods. This review provides information about dataset development and applications.
+
+7. The Cancer Genome Atlas Research Network *et al*. The Cancer Genome Atlas Pan-Cancer analysis project. **Nature Genetics**. 45, 1113-1120 (2013). doi: [10.1038/ng.2764](https://doi.org/10.1038/ng.2764)
+
+    Since we are all interested in tumor-related research, TCGA, the largest public tumor data source is worth learning carefully. This paper is one of the earliest official papers about TCGA.
+
+8. Adelberger, P. *et al*. Coral: a web-based visual analysis tool for creating and characterizing cohorts. **Bioinformatics**. 2021 Oct 8 online ahead of print. doi: [10.1093/bioinformatics/btab695](https://doi.org/10.1093/bioinformatics/btab695)
+
+    This is a typical example of software development based on TCGA data.
+
+9. Jia, D. *et al*. LINC02678 as a Novel Prognostic Marker Promotes Aggressive Non-small-cell Lung Cancer. **Front Cell Dev Biol**. 9, 686975 (2021). doi: [10.3389/fcell.2021.686975](https://doi.org/10.3389/fcell.2021.686975)
+
+    This is a typical example of scientific research (biomarker discovery) project based on TCGA and GEO (Gene Expression Omnibus) data.
+
+
+
