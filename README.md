@@ -48,7 +48,7 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     Since we are all interested in tumor-related research, TCGA, the largest public tumor data source is worth learning carefully. This paper is one of the earliest official papers about TCGA.
 
-8. Adelberger, P. *et al*. Coral: a web-based visual analysis tool for creating and characterizing cohorts. **Bioinformatics**. 2021 Oct 8 online ahead of print. doi: [10.1093/bioinformatics/btab695](https://doi.org/10.1093/bioinformatics/btab695)
+8. Ozhan, A. *et al*. SmulTCan: A Shiny application for multivariable survival analysis of TCGA data with gene sets. **Comput. Biol. Med**. 137, 104793 (2021). doi: [10.1016/j.compbiomed.2021.104793](https://doi.org/10.1016/j.compbiomed.2021.104793)
 
     This is a typical example of software development based on TCGA data.
 
