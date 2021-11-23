@@ -59,3 +59,7 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 10. Fuhrman J. *et al*. A review of explainable and interpretable AI with applications in COVID-19 imaging. **Med Phys**. 2021 Nov 18. Online ahead of print. doi: [10.1002/mp.15359](https://doi.org/10.1002/mp.15359)
 
     We mentioned image processing for diagnosis. This review paper could provide some related knowledge.
+
+11. Lee, C. M. *et al*. UCSC Genome Browser enters 20th year. **Nucleic Acids Res**. 48, D756–D761 (2020). doi: [10.1038/ng.2764](https://doi.org/10.1038/ng.2764)
+
+    This is a long-term (20 years) software project, and it is one of the currently the most widely used websites. It integrates multi-omics data (annotations) in the order of genomic coordinates and provides many useful command-line tools. This is not the original paper of the software (UCSC genome browser), but an introduction paper after this long time.
