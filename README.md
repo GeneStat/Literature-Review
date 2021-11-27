@@ -63,3 +63,11 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 11. Lee, C. M. *et al*. UCSC Genome Browser enters 20th year. **Nucleic Acids Res**. 48, D756–D761 (2020). doi: [10.1038/ng.2764](https://doi.org/10.1038/ng.2764)
 
     This is a long-term (20 years) software project, and it is one of the currently the most widely used websites. It integrates multi-omics data (annotations) in the order of genomic coordinates and provides many useful command-line tools. This is not the original paper of the software (UCSC genome browser), but an introduction paper after this long time.
+
+12. Song, L. *et al*. CINdex: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data. **Cancer Inform**. 16, (2017). doi: [10.1177/1176935117746637](https://doi.org/10.1177/1176935117746637)
+
+    This paper is about a R package, which provide an algorithm of calculating indicator to measure chromosome instability, which may be useful for tumor research and diagnosis.
+
+14. Staedtke, V. *et al*. Actionable molecular biomarkers in primary brain tumors. **Trends in cancer** 2, 338–349 (2016). doi: [10.1016/j.trecan.2016.06.003](https://doi.org/10.1016/j.trecan.2016.06.003)
+
+    This is a review paper, which introduces biomarkers (including genomic features such as chromosome instability) in brain tumor. This paper and above one are both provided in precisionFDA challenge.
