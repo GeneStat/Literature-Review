@@ -18,6 +18,16 @@ Therefore, for our (virtual) team, the best question should be like this:
 
 Here goes a continuous updating paper list. We select at least ten papers to study every month. Unless it is crucial and necessary, only open access papers are selected and added to this list. Suggestion reasons and related comments are provided following each paper.
 
+### December 2021
+
+1. Abdelkader, W. *et al*. A Deep Learning Approach to Refine the Identification of High-Quality Clinical Research Articles From the Biomedical Literature: Protocol for Algorithm Development and Validation. **JMIR Res. Protoc**. 10, e29398 (2021). doi: [10.2196/29398](https://doi.org/10.2196/29398)
+
+    This paper is added for Linlin's personal interest. There are so many new papers published every day. Sooner or later, we need AI to help us to select papers, or even read and understand the papers.
+
+2. Beck, T. *et al*. Auto-CORPus: A Natural Language Processing Tool for Standardising and Reusing Biomedical Literature. bioRxiv 2021.01.08.425887 (2021) doi: [10.1101/2021.01.08.425887](https://doi.org/10.1101/2021.01.08.425887)
+
+    This paper is also about NLP technology application on biomedical papers.
+
 ### November 2021
 
 1. Masum, H. *et al*. Ten Simple Rules for Cultivating Open Science and Collaborative R&D. **PLoS Comput. Biol**. 9, 7–10 (2013). doi: [10.1371/journal.pcbi.1003244](https://doi.org/10.1371/journal.pcbi.1003244)
