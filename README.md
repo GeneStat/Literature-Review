@@ -24,9 +24,13 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     This paper is added for Linlin's personal interest. There are so many new papers published every day. Sooner or later, we need AI to help us to select papers, or even read and understand the papers.
 
-2. Beck, T. *et al*. Auto-CORPus: A Natural Language Processing Tool for Standardising and Reusing Biomedical Literature. bioRxiv 2021.01.08.425887 (2021) doi: [10.1101/2021.01.08.425887](https://doi.org/10.1101/2021.01.08.425887)
+2. Beck, T. *et al*. Auto-CORPus: A Natural Language Processing Tool for Standardising and Reusing Biomedical Literature. **bioRxiv** 2021.01.08.425887 (2021) doi: [10.1101/2021.01.08.425887](https://doi.org/10.1101/2021.01.08.425887)
 
     This paper is also about NLP technology application on biomedical papers.
+
+3. Davies, A. *et al*. Advancing mathematics by guiding human intuition with AI. **Nature** 600, 70–74 (2021). doi: [10.1038/s41586-021-04086-x](https://doi.org/10.1038/s41586-021-04086-x)
+
+    I believe that in a not-so-far future, most even creative scientific research work, including in the biomedicine field, could be performed by AI.
 
 ### November 2021
 
