@@ -32,6 +32,14 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     I believe that in a not-so-far future, most even creative scientific research work, including in the biomedicine field, could be performed by AI.
 
+4. Murray, B. *et al*. Accessible data curation and analytics for international-scale citizen science datasets. **Sci. Data** 8, 297 (2021). doi: [10.1038/s41597-021-01071-x](https://doi.org/10.1038/s41597-021-01071-x)
+
+    This paper talks about manipulating a massive amount of TB-scale public data. The authors developed a software tool to fulfill the requirement.
+
+5. HT, Y. *et al*. Literature-based discovery of new candidates for drug repurposing. **Brief. Bioinform**. 18, 488–497 (2017). doi: [10.1093/bib/bbw030](https://doi.org/10.1093/bib/bbw030)
+
+    This example shows how to discover new usage of a drug by mining knowledge from literature papers. It could be one of our research projects in the future since literature is one of the most easy-to-access and valuable data sources.
+
 ### November 2021
 
 1. Masum, H. *et al*. Ten Simple Rules for Cultivating Open Science and Collaborative R&D. **PLoS Comput. Biol**. 9, 7–10 (2013). doi: [10.1371/journal.pcbi.1003244](https://doi.org/10.1371/journal.pcbi.1003244)
