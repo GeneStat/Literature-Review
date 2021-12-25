@@ -40,6 +40,26 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     This example shows how to discover new usage of a drug by mining knowledge from literature papers. It could be one of our research projects in the future since literature is one of the most easy-to-access and valuable data sources.
 
+6. Chopard, D. *et al*. Text Mining of Adverse Events in Clinical Trials: Deep Learning Approach. **JMIR Med. Informatics** 9, e28632 (2021). doi: [10.2196/28632](https://doi.org/10.2196/28632)
+
+    Adverse events (AE) are very important in clinical trials for drug development. This paper provides an example of AE research by text mining. In addition, we can learn knowledge about clinical trials in this research.
+
+7. Skidmore, Z. L. *et al*. Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers. **bioRxiv** 2021.12.14.472689 (2021) doi: [10.1101/2021.12.14.472689](https://doi.org/10.1101/2021.12.14.472689)
+
+    This paper is typical genomics and transcriptomics landscape research. We can learn the basic protocols of investigation such -omics data.
+
+8. Löchel, H. F. *et al*. Fractal construction of constrained code words for DNA storage systems. **Nucleic Acids Res**. (2021) doi: [10.1093/nar/gkab1209](https://doi.org/10.1093/nar/gkab1209)
+
+    Using DNA as a new material for data storage, especially for long-term persistence, is a cutting-edge field. There are algorithms for data encoding/decoding for DNA sequences. This paper is one of them.
+
+9. Shao, D. *et al*. Artificial intelligence in clinical research of cancers. **Brief. Bioinform**. (2021) doi: [10.1093/bib/bbab523](https://doi.org/10.1093/bib/bbab523).
+
+    This is a review that introduces how AI techniques are used in medical-related research. From this paper, we can learn what kinds of data are available and what tools and protocols are proper to use on the data.
+
+10. Liu, S.-Y. *et al*. Genomic signatures define three subtypes of EGFR-mutant stage II-III non-small-cell lung cancer with distinct adjuvant therapy outcomes. **Nat. Commun**. 12, 6450 (2021). doi: [10.1038/s41467-021-26806-7](https://doi.org/10.1038/s41467-021-26806-7)
+
+    Genomic signature is usually a numeric indicator calculated by DNA sequencing results, which could distinguish different groups of patients. Such information is the key to providing new laboratory tests for precision clinical practice. This paper is a typical procedure of genomic signature creation for lung cancer.
+
 ### November 2021
 
 1. Masum, H. *et al*. Ten Simple Rules for Cultivating Open Science and Collaborative R&D. **PLoS Comput. Biol**. 9, 7–10 (2013). doi: [10.1371/journal.pcbi.1003244](https://doi.org/10.1371/journal.pcbi.1003244)
