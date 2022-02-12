@@ -113,3 +113,19 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 14. Staedtke, V. *et al*. Actionable molecular biomarkers in primary brain tumors. **Trends in cancer** 2, 338–349 (2016). doi: [10.1016/j.trecan.2016.06.003](https://doi.org/10.1016/j.trecan.2016.06.003)
 
     This is a review paper, which introduces biomarkers (including genomic features such as chromosome instability) in brain tumor. This paper and above one are both provided in precisionFDA challenge.
+
+
+### February 2022
+
+1. https://www.medrxiv.org/content/10.1101/2022.01.19.22269566v1.full.pdf doi :[https://doi.org/10.1101/2022.01.19.22269566]
+
+     
+
+2. https://towardsdatascience.com/simple-3d-mri-classification-ranked-bronze-on-kaggle-87edfdef018a
+
+    this is example for mri classification with monai image processing framework
+
+
+3. https://clincancerres.aacrjournals.org/content/27/20/5586.long (Minimal Residual Disease Detection using a Plasma-only Circulating Tumor DNA Assay in Patients with Colorectal Cancer)
+
+    
