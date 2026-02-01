@@ -18,6 +18,28 @@ Therefore, for our (virtual) team, the best question should be like this:
 
 Here goes a continuous updating paper list. We select at least ten papers to study every month. Unless it is crucial and necessary, only open access papers are selected and added to this list. Suggestion reasons and related comments are provided following each paper.
 
+### February 2026
+1. HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology :[ https://arxiv.org/abs/2505.12120]
+   
+
+   
+
+### February 2022
+
+1. https://www.medrxiv.org/content/10.1101/2022.01.19.22269566v1.full.pdf doi :[https://doi.org/10.1101/2022.01.19.22269566]
+
+     
+
+2. https://towardsdatascience.com/simple-3d-mri-classification-ranked-bronze-on-kaggle-87edfdef018a
+
+    this is example for mri classification with monai image processing framework
+
+
+3. https://clincancerres.aacrjournals.org/content/27/20/5586.long (Minimal Residual Disease Detection using a Plasma-only Circulating Tumor DNA Assay in Patients with Colorectal Cancer)
+
+
+    
+
 ### December 2021
 
 1. Abdelkader, W. *et al*. A Deep Learning Approach to Refine the Identification of High-Quality Clinical Research Articles From the Biomedical Literature: Protocol for Algorithm Development and Validation. **JMIR Res. Protoc**. 10, e29398 (2021). doi: [10.2196/29398](https://doi.org/10.2196/29398)
@@ -114,18 +136,3 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
     This is a review paper, which introduces biomarkers (including genomic features such as chromosome instability) in brain tumor. This paper and above one are both provided in precisionFDA challenge.
 
-
-### February 2022
-
-1. https://www.medrxiv.org/content/10.1101/2022.01.19.22269566v1.full.pdf doi :[https://doi.org/10.1101/2022.01.19.22269566]
-
-     
-
-2. https://towardsdatascience.com/simple-3d-mri-classification-ranked-bronze-on-kaggle-87edfdef018a
-
-    this is example for mri classification with monai image processing framework
-
-
-3. https://clincancerres.aacrjournals.org/content/27/20/5586.long (Minimal Residual Disease Detection using a Plasma-only Circulating Tumor DNA Assay in Patients with Colorectal Cancer)
-
-    
