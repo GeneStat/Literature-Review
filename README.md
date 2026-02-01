@@ -20,6 +20,7 @@ Here goes a continuous updating paper list. We select at least ten papers to stu
 
 ### February 2026
 1. HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology :[ https://arxiv.org/abs/2505.12120]
+2. Deep-learning triage of 3D pathology datasets for comprehensive and efficient pathologist assessments :[ https://www.biorxiv.org/content/10.1101/2025.07.20.665804v1 ]
    
 
    
