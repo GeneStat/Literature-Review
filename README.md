@@ -18,6 +18,9 @@ Therefore, for our (virtual) team, the best question should be like this:
 
 Here goes a continuous updating paper list. We select at least ten papers to study every month. Unless it is crucial and necessary, only open access papers are selected and added to this list. Suggestion reasons and related comments are provided following each paper.
 
+### March 2026
+1.  A Drosophila computational brain model reveals sensorimotor processing : [https://www.nature.com/articles/s41586-024-07763-9]
+
 ### February 2026
 1. HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology :[ https://arxiv.org/abs/2505.12120]
 2. Deep-learning triage of 3D pathology datasets for comprehensive and efficient pathologist assessments :[ https://www.biorxiv.org/content/10.1101/2025.07.20.665804v1 ]
